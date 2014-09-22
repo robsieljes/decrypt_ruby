@@ -9,7 +9,7 @@ decrypted_string = ''
 
 n = 0
 
-while n < 20000 do
+while n < crypto.length do
 	i = 0
 	while i <= 25 do
 		# Compare a-z with crypted words
